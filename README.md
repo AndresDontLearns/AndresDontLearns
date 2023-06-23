@@ -5,8 +5,8 @@ Actualmente me encuentro trabajando en mi portafolio de **Data Scientist** y es 
 ## Quién soy?
 Un Chileno 🇨🇱 de 26 años titulado de Ingeniería civil Industrial de la universidad Finis Terrae. 
 Me gusta trabajar con datos y encontrar Insights que apoyen en la toma de decisiones de un negocio o proyecto,
-y es por esto que me he decidido iniciar una carrera como Data Scientist. 
-Además de los conocimientos que poseo sirven como soporte para iniciar este camino:  
+y es por esto que he decidido iniciar una carrera como Data Scientist. 
+Además de las habilidades que ya manejo sirven como soporte para iniciar este camino:  
 
 - Estadistica básica
 - Manejo de Python
