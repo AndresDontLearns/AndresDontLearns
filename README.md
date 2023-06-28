@@ -21,7 +21,7 @@ Si quieres contactarme mis redes son:
 [![Instagram](https://img.shields.io/badge/Instagram-@pymetools-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/pymetools)  
 
 ## Portafolio Data Science
-### [Proyecto 1: Pronóstico de mercado](https://github.com/AndresDontLearns/pronostico-de-mercado)
+### [Proyecto 1: 📈 Pronóstico de mercado](https://github.com/AndresDontLearns/pronostico-de-mercado)
 
 
 
