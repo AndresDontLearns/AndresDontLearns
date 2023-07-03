@@ -17,7 +17,7 @@ También tengo mi proyecto personal [Pymetools](https://www.pymestools.com),
 un emprendimiento que busca apoyar a pequeños negocios con servicios gratuitos y conocimientos sobre la digitalización.
 Si quieres contactarme mis redes son:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Guajardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresguajardoc)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrés_Guajardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/andresguajardoc) 
 [![Instagram](https://img.shields.io/badge/Instagram-@pymetools-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/pymetools)  
 
 ## Portafolio Data Science
