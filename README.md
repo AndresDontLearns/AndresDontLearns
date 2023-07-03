@@ -13,7 +13,7 @@ Además de las habilidades que ya manejo sirven como soporte para iniciar este c
 - Lenguaje SQL
 - Y otras materias de la ingeniería como algebra, cálculo, modelos estocásticos, etc.
 
-Tabmién tengo mi proyecto personal [Pymetools](https://www.pymestools.com), 
+También tengo mi proyecto personal [Pymetools](https://www.pymestools.com), 
 un emprendimiento que busca apoyar a pequeños negocios con servicios gratuitos y conocimientos sobre la digitalización.
 Si quieres contactarme mis redes son:  
 
@@ -22,6 +22,15 @@ Si quieres contactarme mis redes son:
 
 ## Portafolio Data Science
 ### [Proyecto 1: 📈 Pronóstico de mercado](https://github.com/AndresDontLearns/pronostico-de-mercado)
+En este trabajo analizó los datos de un grupo de Compra - Venta en Facebook, esperando encontrar correlación con el mercado y luego prediciendo los datos futuros de este grupo. Para lograr esto se realizó:  
+- Recolectar los datos de Facebook (Scraping)
+- Preprocesamiento de datos
+- Análisis de correlación (usando regresión lineal)
+- Pronóstico de mercado (Forecasting de publicaciones y reacciones)
+- Creación del reporte
+
+En este proyecto se usaron las siguientes librerias de Python:
+
 
 
 
