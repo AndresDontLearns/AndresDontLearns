@@ -31,7 +31,7 @@ En este trabajo analizó los datos de un grupo de Compra - Venta en Facebook, es
 
 En este proyecto se usaron las siguientes librerias de Python:  
 [![Python](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Sklearn-yellow?style=for-the-badge&logo=sciklearn&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Sklearn-yellow?style=for-the-badge&logo=sci-klearn&logoColor=white&labelColor=101010)]()
 
 
 
