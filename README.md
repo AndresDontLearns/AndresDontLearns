@@ -29,8 +29,8 @@ En este trabajo analizó los datos de un grupo de Compra - Venta en Facebook, es
 - Pronóstico de mercado (Forecasting de publicaciones y reacciones)
 - Creación del reporte
 
-En este proyecto se usaron las siguientes librerias de Python:
-
+En este proyecto se usaron las siguientes librerias de Python:  
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 
 
