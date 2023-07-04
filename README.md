@@ -31,9 +31,9 @@ En este trabajo analizó los datos de un grupo de Compra - Venta en Facebook, es
 
 En este proyecto se usaron las siguientes librerias de Python:  
 [![Python](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/)
-[![Python](https://img.shields.io/badge/Sklearn-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Skforecast-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/FbScraper-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Sklearn-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/index.html)
+[![Python](https://img.shields.io/badge/Skforecast-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://skforecast.org/0.8.1/index.html#)
+[![Python](https://img.shields.io/badge/FbScraper-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/kevinzg/facebook-scraper)
 
 
 
