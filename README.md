@@ -48,6 +48,7 @@ Este proyecto consta de diferentes partes:
 4. Predicción y reporte.
 
 Estos puntos se desarrollaron en Python usando las librerías:
+
 [![Python](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/)
 [![Python](https://img.shields.io/badge/Keras-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/index.html)
 [![Python](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://skforecast.org/0.8.1/index.html#)
