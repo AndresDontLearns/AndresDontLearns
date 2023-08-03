@@ -38,7 +38,19 @@ En este proyecto se usaron las siguientes librerias de Python:
 
 ### Próximo proyecto: Prónostico del valor CLP/USD
 
+En este proyecto tiene el objetico de predecir el valor semanal del USD/CLP en base a series de tiempo (Forecasting), así emprendedores y diferentes usuarios pueden tener un estudio de referencia para estimar el comportamiento del dolar en las siguientes semanas. Obviamente este prónostico no asegura que el valor del dolar se adecue a lo predicho.
 
+Este proyecto consta de diferentes partes:
+
+1. Obtener los valores historicos del USD/CLP.
+2. Preprocesamiento de los datos.
+3. Entrenamiento de red neuronal LSTM.
+4. Predicción y reporte.
+
+Estos puntos se desarrollaron en Python usando las librerías:
+[![Python](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/)
+[![Python](https://img.shields.io/badge/Keras-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/index.html)
+[![Python](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://skforecast.org/0.8.1/index.html#)
 
 
 
