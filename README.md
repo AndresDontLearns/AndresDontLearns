@@ -51,7 +51,7 @@ Estos puntos se desarrollaron en Python usando las librerías:
 
 [![Python](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org/)
 [![Python](https://img.shields.io/badge/Keras-yellow?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010)](https://keras.io/)
-[![Python](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=101010)](https://matplotlib.org/)
+[![Python](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://matplotlib.org/)
 
 
 
