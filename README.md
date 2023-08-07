@@ -8,10 +8,10 @@ Me gusta trabajar con datos y encontrar Insights que apoyen en la toma de decisi
 y es por esto que he decidido iniciar una carrera como Data Scientist. 
 Además de las habilidades que ya manejo sirven como soporte para iniciar este camino:  
 
-- Estadistica básica
+- Estadística básica
 - Manejo de Python
 - Lenguaje SQL
-- Y otras materias de la ingeniería como algebra, cálculo, modelos estocásticos, etc.
+- Y otras materias de la ingeniería como álgebra, cálculo, modelos estocásticos, etc.
 
 También tengo mi proyecto personal [Pymetools](https://www.pymestools.com), 
 un emprendimiento que busca apoyar a pequeños negocios con servicios gratuitos y conocimientos sobre la digitalización.
