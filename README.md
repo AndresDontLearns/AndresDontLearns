@@ -36,7 +36,7 @@ En este proyecto se usaron las siguientes librerias de Python:
 [![Python](https://img.shields.io/badge/Skforecast-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://skforecast.org/0.8.1/index.html#)
 [![Python](https://img.shields.io/badge/FbScraper-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://github.com/kevinzg/facebook-scraper)  
 
-### Próximo proyecto: Prónostico del valor CLP/USD
+### [Proyecto 2: 💲 Prónostico de USD/CLP](https://github.com/AndresDontLearns/Pronostico-de-USD-CLP)
 
 En este proyecto tiene el objetico de predecir el valor semanal del USD/CLP en base a series de tiempo (Forecasting), así emprendedores y diferentes usuarios pueden tener un estudio de referencia para estimar el comportamiento del dolar en las siguientes semanas. Obviamente este prónostico no asegura que el valor del dolar se adecue a lo predicho.
 
