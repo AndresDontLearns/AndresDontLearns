@@ -53,9 +53,12 @@ Estos puntos se desarrollaron en Python usando las librerías:
 [![Python](https://img.shields.io/badge/Keras-yellow?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010)](https://keras.io/)
 [![Python](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://matplotlib.org/)
 
+### [Proyecto 3: 📊 Google Trends Dashboard](https://github.com/AndresDontLearns/dashboard-trends)
 
+Este proyecto busca obtener información de la plataforma Google Trends, que registra los tópicos más consultados por día en el buscador. Los datos consultados de trends son los 5 tópicos más buscados cada día durante un mes. Para el desarrollo de este proyecto se utilizó lo siguiente:
 
-
+- Una conexión a traves de BigQuery a la tabla de datos pública
+- Diseñar los cuadros y gráficos en Looker Studio
 
 
 
