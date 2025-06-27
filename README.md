@@ -16,7 +16,6 @@ Soy un ingeniero civil industrial que sabe un poco de programación. Actualmente
 - 📊 **Analista de hojas de cálculo automatizado**  
   Proyecto en etapa de prototipo que permite a los usuarios cargar sus archivos Excel y recibir automatizaciones personalizadas a través de agentes LLM.
 
-
 ---
 
 ## 🛠️ Stack y herramientas
