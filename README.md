@@ -5,7 +5,7 @@ Soy un ingeniero civil industrial que sabe un poco de programación. Actualmente
 ---
 ## 🖱️ Proyectos en productivo
 
-- 👩‍🏫 **Plataforma de estudio con IA - profesavia.cl**
+- 👩‍🏫 **Plataforma de estudio con IA - profesavia.cl**  
   Desarrollo un SaaS educativo orientado a estudiantes secundarios, con ensayos interactivos, retroalimentación automática mediante modelos LLM y seguimiento de progreso.
   [Profe Savia](https://profesavia.cl)
   
